@@ -1,5 +1,4 @@
-# Koa2-blog（有问题可以加qq群:725165362）
-node+koa2+mysql (欢迎star)
+
 
 > 现在最新的代码有变动，请参照最新的代码，新增了上传头像、分页、markdown语法等
 
@@ -97,5 +96,5 @@ $ npm test(测试项目)
 
 ### 个人小程序
 
-![img](http://www.wclimb.site/cdn/xcx.jpeg?v=1) 
+
 
